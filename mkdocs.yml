@@ -2,4 +2,7 @@ site_name: About Me
 theme:
     name: material
     #name: readthedocs
+markdown_extensions:
+  - attr_list
+
     
