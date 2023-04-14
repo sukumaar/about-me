@@ -24,12 +24,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+        with:
+          python-version: 3.x
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
           echo Building about me mkdoc page
-          pip install mkdocs
+          pip install mkdocs==1.1.2
           pip install mkdocs-material
           pip install mkdocs-awesome-pages-plugin
           mkdocs gh-deploy --force
