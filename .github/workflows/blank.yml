@@ -31,4 +31,5 @@ jobs:
           echo Building about me mkdoc page
           pip install mkdocs
           pip install mkdocs-material
+          pip install mkdocs-awesome-pages-plugin
           mkdocs gh-deploy --force
