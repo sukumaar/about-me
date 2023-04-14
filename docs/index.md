@@ -44,7 +44,7 @@ ingestion, data analysis, data validation, migration, legacy data warehouse mode
 - [Mastering Error Handling in Scala](https://medium.com/@sukumaar/mastering-error-handling-in-scala-9bb26ddb977c)
 
 ## Links to connect me 🚀:
-- [Linkedin](https://www.linkedin.com/in/sukumaar)
+[:simple-linkedin:](https://www.linkedin.com/in/sukumaar){ .md-button }
 
 
 <br>
