@@ -43,6 +43,10 @@ ingestion, data analysis, data validation, migration, legacy data warehouse mode
 
 - [Mastering Error Handling in Scala](https://medium.com/@sukumaar/mastering-error-handling-in-scala-9bb26ddb977c)
 
+- [Harnessing Functional Programming for Distributed Storage and Processing with Apache Spark](https://medium.com/@sukumaar/harnessing-functional-programming-for-distributed-storage-and-processing-with-apache-spark-eb66c623e15e)
+
+- [Java’s Unsafe Package and Its Role in Apache Spark’s Optimized JVM Performance](https://medium.com/@sukumaar/javas-unsafe-package-and-its-role-in-apache-spark-s-optimized-jvm-performance-e2dec6a294f6)
+
 ## Links to connect me 🚀:
 [:simple-linkedin:](https://www.linkedin.com/in/sukumaar){ .md-button } 
 [:simple-medium:](https://medium.com/@sukumaar){ .md-button } 
