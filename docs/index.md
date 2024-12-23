@@ -33,7 +33,7 @@
 - [https://rovingdev.com/](https://rovingdev.com/)
 
 ## Links to connect me 🚀:
-[:simple-rovingdev:](https://rovingdev.com/){ .md-button }
+[my blog](https://rovingdev.com/){ .md-button }
 [:simple-linkedin:](https://www.linkedin.com/in/sukumaar){ .md-button } 
 [:simple-medium:](https://medium.com/@sukumaar){ .md-button } 
 
