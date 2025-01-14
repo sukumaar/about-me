@@ -1,4 +1,4 @@
-  
+[Subscribe to free newsletter](https://rovingdev.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Frovingdev.com%2F){ .md-button }  
 ## Who am I 🤓?
 - Software Engineer having around 10 years of experience in Big Data Analytics with Apache Hadoop and Apache Spark.
 - Worked on Big Data technologies/framework (Spark, Hive, Kafka, HBase, Airflow, Sqoop, Flume, Oozie, Solr, Elasticsearch) with Scala and Java, also done respective installations.
