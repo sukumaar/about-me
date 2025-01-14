@@ -1,6 +1,8 @@
 site_name: About Me
 theme:
     name: material
+    icon:
+        annotation: material/arrow-right-circle
     #name: readthedocs
 markdown_extensions:
   - attr_list
