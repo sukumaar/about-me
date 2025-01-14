@@ -1,7 +1,4 @@
-!!! note annotate "My tech blogs"
-    
-    [https://rovingdev.com/](https://rovingdev.com/)
-    
+  
 ## Who am I 🤓?
 - Software Engineer having around 10 years of experience in Big Data Analytics with Apache Hadoop and Apache Spark.
 - Worked on Big Data technologies/framework (Spark, Hive, Kafka, HBase, Airflow, Sqoop, Flume, Oozie, Solr, Elasticsearch) with Scala and Java, also done respective installations.
